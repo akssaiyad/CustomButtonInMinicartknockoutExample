@@ -1,1 +1,1 @@
-# CustomButtonInMinicartknockoutExample
+# CustomButtonInMinicartknockoutExample For Magento 2
